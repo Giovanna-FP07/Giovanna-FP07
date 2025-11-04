@@ -22,7 +22,7 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 ---
-## 📈 Estatísticas do GitHub
+## 📊 Minhas Estatísticas do GitHub
 <div align="center">
 <a href="https://github.com/Giovanna-FP07">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Giovanna-FP07&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true"/>
@@ -30,6 +30,11 @@
 </a>
 <br/>
 <img src="https://streak-stats.demolab.com?user=Giovanna-FP07&theme=dark&hide_border=true"/>
+</div>
+---
+## 📆 Atividade Recente (Gráfico de Contribuições)
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Giovanna-FP07&theme=dark&hide_border=true" />
 </div>
 ---
 ## 🔗 Conecte-se comigo
