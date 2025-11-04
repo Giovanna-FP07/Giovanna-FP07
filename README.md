@@ -20,8 +20,8 @@
 </div>
 <h2 align="center">Giovanna's GitHub State</h2>
 <div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Giovanna-FP07&show_icons=true&theme=transparent&hide_border=false&title_color=FF007F&text_color=ffffff&icon_color=FFC0CB&border_radius=10&layout=compact" alt="GitHub Stats"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giovanna-FP07&layout=compact&theme=transparent&hide_border=false&title_color=FF007F&text_color=ffffff&icon_color=808080&langs_count=2&langs_colors=00CED1" alt="Top Languages"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Giovanna-FP07&show_icons=true&theme=transparent&hide_border=false&title_color=FF007F&text_color=ffffff&icon_color=FFC0CB&border_radius=10&layout=compact" alt="GitHub Stats"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giovanna-FP07&layout=compact&theme=transparent&hide_border=false&title_color=FF007F&text_color=ffffff&icon_color=808080&langs_count=2&langs_colors=00CED1" alt="Top Languages"/>
 </div>
 <h2 align="center">Programming Languages & Technology Stack</h2>
 <div align="center">
