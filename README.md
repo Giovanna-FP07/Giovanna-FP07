@@ -11,7 +11,7 @@
 </thead>
 <tbody>
 <tr>
-<td align="center">Estudante de Ciência da Computação** na FIAP.</td>
+<td align="center">Estudante de Ciência da Computação na FIAP.</td>
 <td align="center">Facilidade com design, utilizando Canva, PowerPoint e Google Workspace.</td>
 <td align="center">Familiaridade com Windows e macOS. Foco em IA, automação, dados e inovação.</td>
 </tr>
