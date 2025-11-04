@@ -1,20 +1,19 @@
 <h1 align="center">👋 Oii, eu sou a Gi!</h1>
-<h3 align="center">Estudante de Ciência da Computação | Design | IA & Automação</h3>
-<h2 align="center">Sobre mim</h2>
+<h3 align="center">Estudante de Ciência da Computação | Design, IA & Automação</h3>
 <div align="center">
 <table>
 <thead>
 <tr>
-<th align="left"> Formação</th>
-<th align="left"> Design & Apresentações</th>
-<th align="left"> Ambiente & Foco</th>
+<th align="center"> Formação</th>
+<th align="center"> Design & Apresentações</th>
+<th align="center"> Ambiente & Foco</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td align="left">Estudante de **Ciência da Computação** na **FIAP**.</td>
-<td align="left">Facilidade com design, utilizando **Canva, PowerPoint e Google Workspace**.</td>
-<td align="left">Familiaridade com **Windows e macOS**. Foco em **IA, automação, dados e inovação**.</td>
+<td align="center">Estudante de Ciência da Computação** na FIAP.</td>
+<td align="center">Facilidade com design, utilizando Canva, PowerPoint e Google Workspace.</td>
+<td align="center">Familiaridade com Windows e macOS. Foco em IA, automação, dados e inovação.</td>
 </tr>
 </tbody>
 </table>
@@ -22,7 +21,7 @@
 <h2 align="center">Giovanna's GitHub State</h2>
 <div align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Giovanna-FP07&show_icons=true&theme=transparent&hide_border=false&title_color=FF007F&text_color=ffffff&icon_color=FFC0CB&border_radius=10&layout=compact" alt="GitHub Stats"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giovanna-FP07&layout=compact&theme=transparent&hide_border=false&title_color=FF007F&text_color=808080&icon_color=808080&langs_count=2&langs_colors=00CED1" alt="Top Languages"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giovanna-FP07&layout=compact&theme=transparent&hide_border=false&title_color=FF007F&text_color=ffffff&icon_color=808080&langs_count=2&langs_colors=00CED1" alt="Top Languages"/>
 </div>
 <h2 align="center">Programming Languages & Technology Stack</h2>
 <div align="center">
