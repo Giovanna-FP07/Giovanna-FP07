@@ -23,6 +23,7 @@
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Giovanna-FP07&show_icons=true&theme=transparent&hide_border=false&title_color=FF007F&text_color=ffffff&icon_color=FFC0CB&border_radius=10&layout=compact" alt="GitHub Stats"/>
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giovanna-FP07&layout=compact&theme=transparent&hide_border=false&title_color=FF007F&text_color=ffffff&icon_color=808080&langs_count=2&langs_colors=00CED1" alt="Top Languages"/>
 </div>
+
 <h2 align="center">Programming Languages & Technology Stack</h2>
 <div align="center">
 <img src="https://img.shields.io/badge/Python-C71585?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>
@@ -34,17 +35,34 @@
 </div>
 <br/>
 <div align="center">
-<img src="https://img.shields.io/badge/Canva-FFC0CB?style=for-the-badge&logo=Canva&logoColor=black" alt="Canva Badge"/>
-<img src="https://img.shields.io/badge/PowerPoint-C71585?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white" alt="PowerPoint Badge"/>
-<img src="https://img.shields.io/badge/Google_Slides-FF007F?style=for-the-badge&logo=googleslides&logoColor=white" alt="Google Slides Badge"/>
+<img src="https://img.shields.io/badge/Pandas-C71585?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas Badge"/>
+<img src="https://img.shields.io/badge/Numpy-FF007F?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy Badge"/>
+<img src="https://img.shields.io/badge/Jupyter-FFC0CB?style=for-the-badge&logo=jupyter&logoColor=black" alt="Jupyter Badge"/>
+<img src="https://img.shields.io/badge/Colab-C71585?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Colab Badge"/>
 </div>
 <br/>
 <div align="center">
-<img src="https://img.shields.io/badge/GitHub-C71585?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+<img src="https://img.shields.io/badge/Git-FF007F?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge"/>
+<img src="https://img.shields.io/badge/Firebase-FFC0CB?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase Badge"/>
+<img src="https://img.shields.io/badge/PyCharm-C71585?style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm Badge"/>
 <img src="https://img.shields.io/badge/VS_Code-FF007F?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code Badge"/>
-<img src="https://img.shields.io/badge/Windows-FFC0CB?style=for-the-badge&logo=windows&logoColor=black" alt="Windows Badge"/>
-<img src="https://img.shields.io/badge/macOS-C71585?style=for-the-badge&logo=apple&logoColor=white" alt="macOS Badge"/>
+<img src="https://img.shields.io/badge/GitHub-FFC0CB?style=for-the-badge&logo=github&logoColor=black" alt="GitHub Badge"/>
+<img src="https://img.shields.io/badge/Arduino-C71585?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino Badge"/>
 </div>
+<br/>
+<div align="center">
+<img src="https://img.shields.io/badge/Microsoft_Office-FF007F?style=for-the-badge&logo=microsoftoffice&logoColor=white" alt="Microsoft Office Badge"/>
+<img src="https://img.shields.io/badge/Adobe_Photoshop-FFC0CB?style=for-the-badge&logo=adobephotoshop&logoColor=black" alt="Adobe Photoshop Badge"/>
+<img src="https://img.shields.io/badge/Canva-C71585?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva Badge"/>
+<img src="https://img.shields.io/badge/PowerPoint-FF007F?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white" alt="PowerPoint Badge"/>
+<img src="https://img.shields.io/badge/Google_Slides-FFC0CB?style=for-the-badge&logo=googleslides&logoColor=black" alt="Google Slides Badge"/>
+</div>
+<br/>
+<div align="center">
+<img src="https://img.shields.io/badge/Windows-C71585?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Badge"/>
+<img src="https://img.shields.io/badge/macOS-FF007F?style=for-the-badge&logo=apple&logoColor=white" alt="macOS Badge"/>
+</div>
+
 <h2 align="center">Minha Atividade no GitHub</h2>
 <div align="center">
 <img src="https://streak-stats.demolab.com?user=Giovanna-FP07&theme=dark&hide_border=true&border_radius=10" alt="GitHub Streak"/>
