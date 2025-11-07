@@ -74,7 +74,7 @@
 <a href="https://www.linkedin.com/in/giovannafernandesp/">
 <img src="https://img.shields.io/badge/LinkedIn-FF007F?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
-<a href="https://seusite.com">
+<a href="https://giovannadev-portfolio.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-C71585?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio Badge"/>
 </a>
 <a href="https://github.com/Giovanna-FP07">
